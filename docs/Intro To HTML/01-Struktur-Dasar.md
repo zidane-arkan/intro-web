@@ -46,7 +46,11 @@ Dalam pembuatan susunan web biasanya terdapat elemen struktur untuk memudahkan p
 1. `<header></header>` tag header digunakan representasi dari bagian atas pada sebuah website, biasanya berisi link, elemen heading `<h1> - <h6>`.
 2. `<nav></nav>` tag nav berfungsi untuk membungkus tag link atau anchor `<a>`.
 3. `<main></main>` tag unik yang menjadi bagian utama dari sebuah website.Hampir sebagian besar isi website berada pada tag ini.
-**Note** : Konten di dalam elemen `<main>` harus unik, tidak dianjurkan untuk menempatkan tag atau elemen yang berulang seperti sidebar, navbar atau form pencarian.
+   
+:::tip Catatan
+Konten di dalam elemen `<main>` harus unik, tidak dianjurkan untuk menempatkan tag atau elemen yang berulang seperti sidebar, navbar atau form pencarian.
+:::
+
 4. `<footer></footer>` tag yang mempresentasikan bagian akhir dari sebuah website, biasanya berisi : *informasi kontak*, *informasi copyright*, *sitemap* dan informasi yang berikaitan dengan website.
    
 ## Heading
