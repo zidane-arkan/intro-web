@@ -1,5 +1,5 @@
 ---
-title : 12 - Konsep Pewarisan
+title : 11 - Konsep Pewarisan
 ---
 
 # Inheritance (Pewarisan)

@@ -1,5 +1,5 @@
 ---
-title : 09 - Shadow
+title : 08 - Shadow
 ---
 
 # Apa itu shadow dalam CSS ?
