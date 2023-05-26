@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Deed Dive Into HTML and CSS
+# Deep Dive Into HTML,CSS and Javascript
 
-Pada sesi kali ini kita akan melihat dan mencoba menggunakan **HTML** dan **CSS** serta fungsinya pada sebuah website
+Pada sesi kali ini kita akan melihat dan mencoba menggunakan **HTML**, **CSS**, dan **Javascript** serta fungsinya pada sebuah website
 
 ## Apa yang kita butuhkan ?
 1. Code Editor
