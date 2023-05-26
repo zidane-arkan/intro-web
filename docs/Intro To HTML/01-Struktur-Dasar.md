@@ -16,10 +16,10 @@ HTML memiliki struktur dasar yang digunakan yaitu sebagai berikut :
 <!DOCTYPE html>
 <html>
 <head>
-    <title>WebDev Series</title>
+    <title>Learn Website Together</title>
 </head>
 <body>
-    <p>Halo GDSC UNSRI !</p>
+    <p>Halo Sistem Komputer !</p>
 </body>
 </html>
 ```
