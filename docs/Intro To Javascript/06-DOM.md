@@ -28,7 +28,7 @@ element.onClick = function(){
 }
 ```
 
-## Tambahan Materi
+## Lebih banyak tentang DOM dan Events
 Untuk materi lebih lanjut mengenai DOM, kalian dapat mengakses web berikut :
 - [JavaScript HTML DOM Document](https://www.w3schools.com/js/js_htmldom_document.asp)
 - [HTML Events](https://www.w3schools.com/js/js_events.asp)
