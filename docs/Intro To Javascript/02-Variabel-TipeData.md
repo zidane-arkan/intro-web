@@ -33,9 +33,47 @@ let film = 'solo'
 let isOn = true
 ```
 - array
-```javascript
-let saves = [1,2,3,4,5,'a','b']
-```
+  - Cara pembuatan array
+  ```javascript
+  let saves = [1,2,3,4,5,'a','b']
+  ```
+  - Akses array
+  ```javascript
+  saves[2]
+  ```
+  - Mengubah elemen array
+  ```javascript
+  saves[1] = 20
+  ```
+  - Mengecek panjang array
+  ```javascript
+  let panjang = saves.length
+  console.log(panjang)
+  ```
+  - Metode dalam array
+      1. push(), Menambahkan elemen baru ke akhir array.
+      ```javascript
+      saves.push('c')
+      ```
+      2. pop(), Menghapus elemen terakhir dari array.
+      ```javascript
+      saves.pop()
+      ```
+      3. shift(), Menghapus elemen pertama dari array. 
+      ```javascript
+      saves.shift()
+      ```
+      4. unshift(), Menambahkan element baru ke awal array
+      ```javascript
+      saves.unshift('0')
+      ```
+      5. forEach(), mengulang setiap elemen array dengan menjalankan fungsi `callback`
+      ```javascript
+      saves.forEach((item)=>{
+        console.log(item)
+      })
+      ```
+      Terdapat 2 properti lain yang dapat kita ambil dari fungsi `forEach`,seperti `index` dan `arr`.
 - objek
 ```javascript
 let mobil = {
@@ -57,14 +95,14 @@ let teks1 = 'Halo semua,'
 let teks2 = 'nama saya lex'
 let hasil = teks1.concat(teks2)
 ```
-2. Operasi Konkatenasi
+1. Operasi Konkatenasi
 Teknik yang sering dipakai pada bahasa pemrograman lain dengan menggunakan operator tambah (+) untuk menyatukan string.
 ```javascript
 let teks1 = 'Halo semua,'
 let teks2 = 'nama saya lex'
 let hasil = teks1 + teks2
 ```
-3. Template Literal
+1. Template Literal
 Menggabungkan string dengan tanda `${}` kita menggunakan template literals dengan tanda kutip kembali **`** untuk menggabungkan string dengan variabel.Ekspresi atau nilai variabel di dalam **${}** akan diolah dan digabungkan dengan string yang ada di sekitarnya.
 ```javascript
 let teks1 = 'Halo semua,'
