@@ -99,7 +99,7 @@ Kita beri contoh kode untuk menampilkan tampilan yang ada di atas tadi ya..
         
         <div>
             <h1> Hi, Folks! </h1>
-            <h3> Welcome to GDSC Sriwijaya University </h3>
+            <h3> Welcome to Sriwijaya University </h3>
         </div>
 
     </body>

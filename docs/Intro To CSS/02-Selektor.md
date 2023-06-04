@@ -31,7 +31,7 @@ Contoh pengaplikasian :
 #### CSS
 
 ```css
-#anu {
+#paraf {
   text-align: center;
   color: red;
 }
@@ -40,7 +40,7 @@ Contoh pengaplikasian :
 #### HTML
 
 ```html
-<p id="anu">Anu</p>
+<p id="paraf">Paraf</p>
 ```
 
 ## Class Selector
@@ -66,7 +66,7 @@ Contoh pengaplikasian :
 #### HTML
 
 ```html
-<p class="dark center">Anu</p>
+<p class="dark center">Hitam</p>
 ```
 
 ## Universal Selector

@@ -36,7 +36,7 @@ tidak**
 disarankan, karena apabila semakin banyak html dan css kita, maka akan semakin sulit untuk membaca kode nanti.
 
 ```html
-<h1 style="color: blue">Halo GDSC Universitas Sriwijaya!</h1>
+<h1 style="color: blue">Halo Sistem Komputer!</h1>
 ```
 
 ### Internal CSS
@@ -57,7 +57,7 @@ menuliskannya kembali, sehingga kode tersebut diulang-ulang padahal memiliki fun
     </style>
 </head>
 <body>
-<h1>Halo GDSC Universitas Sriwijaya!</h1>
+<h1>Pgai Universitas Sriwijaya!</h1>
 </body>
 </html>
 ```
@@ -87,7 +87,7 @@ project-folder
     <link rel="stylesheet" href="css/02-penempatan-css.css">
 </head>
 <body>
-<h1>Halo GDSC Universitas Sriwijaya!</h1>
+<h1>Kita Coba style!</h1>
 </body>
 </html>
 ```
